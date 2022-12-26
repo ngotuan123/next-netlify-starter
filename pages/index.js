@@ -4,9 +4,6 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-  <!DOCTYPE html>
-<!-- saved from url=(0014)about:internet -->
-<html lang="en" id="html" class="ap-open hfix tb_on" prefix="og: https://ogp.me/ns#">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -379,6 +376,5 @@ export default function Home() {
 
 </body>
 
-</html>
   )
 }
