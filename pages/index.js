@@ -13,8 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <div className="description" >
-                            <p>Fortnite is one of the most talked-about games in the world, and it is easy to see why. 
-    Its exceptional graphics and innovative gameplay give it an edge over its competition. </p>
+                            <p>Welcome to our website. System is being upgraded.... </p>
 
                         </div>
       </main>
